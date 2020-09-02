@@ -1,0 +1,174 @@
+===== Slide 1 ======
+
+Bismillahirahminirrahim, 
+
+Assalamu'alaikum Warahmatullahi Wabarakaatuh, 
+
+Sebelumnya saya ucapkan terima kasih kepada para hadirin khususnya :
+- Kepada Pak rojul selaku dosen pembimbing
+- Kepada Bu tifany selaku dosen penguji
+- dan kepada teman-teman sekalian yang sudah hadir dalam seminar proposal pada siang hari ini, 
+
+Saya Azhar dari program studi teknik informatika angkatan 2017, selaku penyusun penelitian ini yang berjudul
+
+RANCANG BANGUN APLIKASI LINK-MATCH STT-NF MODUL DOSEN BERBASIS WEB MENGGUNAKAN FRAMEWORK LARAVEL
+
+===== Slide 2 ======
+
+Ok, sebelum saya membahas apa yang melatar belakangi pada penelitian ini, saya akan coba membahas terlebih dahulu apa itu link and match dan apa yang melatar belakanginya.
+
+===== Slide 3 ======
+
+Ya, masalah pengangguran merupakan alasan utama adanya link and match. 
+
+===== Slide 4 ======
+
+Berdasarkan data BPS Indonesia pada Agustus 2019 bahwa jumlah Angkatan Kerja Indonesia sekitar 133 Juta, dan sekitar 5% nya merupakan pengangguran, dapat dilihat pada diagram berikut.
+
+===== Slide 5 ======
+
+5%nya itu sekitar 7 juta jiwa yang menganggur, dimana sekitar 7 juta jiwa ini tidak memiliki penghasilan untuk memenuhi kebutuhan hidupnya.
+
+===== Slide 6 ======
+
+Lalu apa yang menjadi faktor penyebab dari banyaknya pengangguran tersebut? 
+
+===== Slide 7 ======
+
+Salah satu faktor penyebab yang saya ambil adalah karena adanya mismatch pendidikan. 
+
+===== Slide 8 ======
+
+Apa itu mismatch pendidikan? mismatch pendidikan yaitu adanya kesenjangan antara kurikulum pendidikan dengan industri pekerjaan. Dampak dari kesenjangan disini adalah kurikulum yang dipelajari supaya mendapat pekerjaan, ternyata tidak sesuai dengan industri pekerjaan yang ada pada saat ini atau bisa dibilang kurikulum pendidikan sekarang ini masih kurang dalam mengikuti perkembangan di industri pekerjaan yang sangat cepat.
+
+Contohnya bagaimana? dari pengalaman saya sendiri di SMK saya itu belajar microsoft visual basic bahkan sampai ujian sekolahnya berkaitan dengan visual basic, mungkin ada yang tau atau pernah denger. 
+
+Nah, akan tetapi sekarang" ini yang saya tau visual basic sudah tidak disupport lagi oleh microsoft dan alhasil, di industri-industri sekarang ini sudah jarang yang menggunakan visual basic bahkan hampir digantikan dengan bahasa pemrograman lain seperti java, python, dan sebagainya yang terus dikembangkan.
+
+Artinya materi yang dipelajari selama di sekolah ini hanya menjadi pengetahuan dasar dan sisanya harus belajar otodidak secara mandiri. 
+
+Inilah mismatch pendidikan yang terjadi saat ini.
+
+===== Slide 9 ======
+
+Lalu bagaimana upaya dalam menangani mismatch pendidikan itu?
+
+===== Slide 10 ======
+
+Disinilah mulai muncul sebuah kebijakan baru yaitu link and match.
+
+===== Slide 11 ======
+
+Link and match dapat dikatakan kebalikan dari mismatch, karena link and match adalah program untuk mempertemukan kurikulum pendidikan dengan industri pekerjaan yang ada pada saat ini.
+
+===== Slide 12 ======
+
+Program link and match di Indonesia sendiri masih dalam tahap perkembangan dan salah satu institusi pendidikan yang baru-baru ini melakukannya adalah STT Terpadu Nurul Fikri yang dimulai pada tahun 2019. 
+
+Akan tetapi perkembangan link and match di STT NF sampai saat ini masih dibutuhkan penyesuaian.
+
+===== Slide 13 ======
+
+Penyesuaian disini terkait kebutuhan-kebutuhan dalam mendukung program link and match di STT NF, saat pertama kali diimplementasikan dan hingga saat ini masih menggunakan aplikasi dari pihak ketiga seperti : 
+- google drive untuk penyimpanan dokumen
+- google form untuk absensi dan reporting
+- google sheet dan trello untuk manajemen
+
+Aplikasi tersebut sangat membantu dalam program link and match di stt nf sejauh ini, namun ada kekurangan yaitu dalam hal pengaksesan, seperti akses data yang dibatasi, akses untuk mengubah, dan sebagainya, yang tidak dapat secara leluasa disesuaikan dengan program link and match di sttnf.
+
+Oleh karena itu dengan batasan-batasan tersebut akan sulit dikembangkan kedepannya dalam program link and match sttnf. 
+
+Inilah yang menjadi latar belakang peneltian saya.
+
+===== Slide 14 ======
+
+Solusi yang saya coba lakukan dalam penelitian ini yaitu membuat aplikasi link and match stt-nf.
+
+Apa saja yang bisa dilakukan aplikasi ini?
+
+===== Slide 15 ======
+
+Kegunaan aplikasi link and match sttnf mungkin hampir sama dengan keempat aplikasi berikut, tapi kembali ke masalah sebelumnya bahwa keempat aplikasi tersebut tidak dapat menyesuaikan dengan program link and match yang ada di sttnf.
+
+Untuk itulah aplikasi link and match sttnf dibuat atau bisa dibilang aplikasi ini merupakan penyesuaian dari keempat aplikasi tersebut, agar dapat menyesuaikan program link and match yang sedang berjalan di sttnf dengan baik.
+
+===== Slide 16 ======
+
+Karena aplikasi ini merupakan gabungan dari keempat aplikasi sebelumnya dengan fitur yang berbeda-beda, maka dari itu aplikasi link and match sttnf ini dibagi menjadi 3 bagian utama yaitu modul dosen, modul kehadiran, dan modul mahasiswa.
+
+===== Slide 17 ======
+
+Serta tersedia dalam 2 platform, web dan mobile.
+
+===== Slide 18 ======
+
+Namun, karena banyaknya bagian dari aplikasi ini maka dalam penelitian ini saya hanya mengambil bagian modul dosen yang berbasiskan web
+
+===== Slide 19 ======
+
+Lalu apa yang dihasilkan dalam penelitian ini?
+
+===== Slide 20 ======
+
+Tentunya karena ini berbasiskan web maka akan menghasilkan web link and match sttnf
+
+===== Slide 21 ======
+
+dan untuk modul dosen akan menghasilkan 3 fitur utama yaitu user management, team management, dan project management.
+
+===== Slide 22 ======
+
+Selanjutnya, kita masuk ke alat dan bahan penelitian yang akan digunakan.
+
+===== Slide 23 ======
+
+Model pengembangan yang saya gunakan yaitu 
+- UML sebagai perancangan model dalam membangun sistem
+- Scrum sebagai metode dalam mengembangkan sistemnya
+
+===== Slide 24 ======
+
+Berikutnya tools pengembangan yang saya gunakan ada 3 yaitu
+- Laravel dalam membuat websitenya
+- Lumen sebagai web servicenya
+- dan postgresql sebagai databasenya
+
+===== Slide 25 ======
+
+Untuk pengujian sistemnya saya menggunakan
+- black box testing
+- UAT
+- Postman
+- dan kuesioner
+
+===== Slide 26 ======
+
+Penelitian ini juga tidak terlepas dari beberapa penelitian yang terkait, ada 4 bagian utama yaitu
+- Bagian framework laravel
+- Bagian manajemen proyek
+- Bagian metode Scrum
+- dan Bagian database postgresql
+
+Penelitian yang saya ambil ada 3,
+- pertama dari sttnf yang berkaitan dengan framework laravel
+- kedua berkaitan dengan manajemen proyek dan scrum
+- terakhir berkaitan dengan seluruhnya kecuali postgresql
+
+===== Slide 27 ======
+
+Untuk tahapan penelitiannya ada 4 tahapan yaitu
+- analisis kebutuhan sistem yang dilanjutkan dengan
+- perancangan sistem dan implementasi saya gabung, karena dalam hal ini saya menggunakan metode scrum sehingga jika ada perubahan saat implementasi dapat kembali ke dalam perancangan sistem
+- dan jika sudah selesai dalam implementasi, terakhir adalah pengujian serta hasil yang didapat
+
+===== Slide 28 ======
+
+Berikut jadwal penelitian saya yang dimulai dari akhir februari 2020 hingga awal februari 2021, dan disini terlihat ada 5 sprint untuk implementasi penelitian saya mulai dari agustus sampai desember
+
+===== Slide 29 ======
+
+Ok yang terakhir yaitu kesimpulan, kesimpulan dari penelitian ini yaitu dapat menghasilkan aplikasi link and match sttnf yang berbasiskan web dengan modul dosen agar mendukung program link and match yang ada di sttnf menjadi lebih baik.
+
+===== Slide 30 ======
+
+Alhamdulillah, telah selesai penjelasan dari saya mungkin itu saja terima kasih atas perhatiannya kurang lebihnya mohon maaf, saya kembalikan kepada pak rojul
