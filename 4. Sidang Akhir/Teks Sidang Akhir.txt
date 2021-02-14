@@ -1,0 +1,134 @@
+===== Slide 1 ======
+
+Bismillahirahminirrahim, 
+
+Assalamu'alaikum Warahmatullahi Wabarakaatuh, 
+
+Sebelumnya saya ucapkan terima kasih kepada Pak rojul selaku dosen pembimbing serta Bu tifany dan pak rio selaku dosen penguji pada sidang akhir saya
+
+Mungkin langsung saja, disini saya akan menjelaskan terkait penelitian saya dengan judul 
+RANCANG BANGUN APLIKASI LINK-MATCH STT-NF MODUL DOSEN BERBASIS WEB MENGGUNAKAN FRAMEWORK LARAVEL
+
+===== Slide 2 ======
+
+Diawali dengan pendahuluan, mengapa penelitian ini penting untuk dibahas lebih lanjut
+
+===== Slide 3 ======
+
+Berdasarkan feedback yang didapatkan dari program link and match pertama kali yang diterapkan di STT-NF pada tahun 2019, 
+terdapat suatu kendala salah satunya yaitu menggunakan banyak aplikasi pihak ketiga, sehingga menjadi tidak efektif dan efisien dalam menjalankan program tersebut.
+Terlihat pada gambar terdapat google drive sebagai cloud penyimpanan, google sheets yang sebelumnya untuk mengisi product backlog pada scrum, google form untuk absensi
+dan terakhir trello yang digunakan sebagai monitoring metode scrum.
+
+Oleh karena itu, penelitian ini ada agar hal tersebut dapat teratasi atau dapat menjadi solusi bagaimana cara agar program link and match ini dapat berjalan
+efektif dan efisien, salah satu solusi yang ditawarkan yaitu dengan merancang suatu aplikasi link-match sttnf yang nantinya akan mengakomodir dalam program 
+link and match di sttnf
+
+===== Slide 4 ======
+
+Mungkin itu yang bisa saya jelaskan terkait mengapa penelitian ini diadakan, berikutnya yaitu mengenai perumusan masalah yang akan diselesaikan
+
+===== Slide 5 ======
+
+Terdapat 3 rumusan masalah, yang pertama mengenai apa saja fitur yang akan diberikan dalam aplikasi ini, bagaimana proses pengembangannya, dan
+terakhir apakah dengan adanya aplikasi ini dapat mendukung program tersebut atau tidak
+
+===== Slide 6 ======
+
+Selanjutnya batasan masalah pada penelitian ini
+
+===== Slide 7 ======
+
+Mungkin sudah disinggung pada judul dan perumusan masalah sebelumnya yaitu aplikasi link-match stt-nf modul dosen berbasis web,
+sehingga diantara batasan masalahnya adalah pengembangan aplikasi berbasiskan web, berfokus kepada modul dosen yang didalamnya terdapat fitur" untuk modul tersebut
+yaitu user, team, dan project management
+
+===== Slide 8 ======
+
+Baik mungkin itu pendahuluan dari penelitian ini, berikutnya yaitu saya akan membahas mengenai feedback yang diberikan ketika seminar hasil sebelumnya
+oleh bu tifanny
+
+===== Slide 9 ======
+
+Terdapat 4 feedback dari seminar hasil sebelumnya yaitu pada nomor 2 sampai 5, dan terdapat 1 feedback pada no 1 yang berasal dari seminar proposal
+dan baru dapat terselesaikan
+
+===== Slide 10 ======
+
+Selanjutnya mengenai tahapan penelitian alhamdulillah telah selesai dilaksanakan dimulai dari tahap analisa kebutuhan sistem, perancangan, implementasi 
+dengan metode scrum hingga pengujian dan hasil yang didapatkan
+
+===== Slide 11 ======
+
+berikutnya ada analisis dan perancangan sistem yang telah dilakukan
+
+===== Slide 12 ======
+
+pada modul dosen ini terdapat 5 end user atau yang saya sebut role atau peran dari user, diantaranya ada dosen, 
+product owner, administrator, scrum master, dan mahasiswa
+
+===== Slide 13 ======
+
+perancangan selanjutnya yaitu use case dari aplikasi ini khususnya modul dosen, dapat terlihat bahwa ada 3 fitur utama yaitu user, team, dan project management
+yang dimiliki oleh 5 role sebelumnya
+
+===== Slide 14 ======
+
+di dalam fitur user management dikhususkan dalam mengelola user yang ada dalam aplikasi nantinya mulai dari edit, view, hingga penilaian mahasiswa
+
+===== Slide 15 ======
+
+untuk use case team management mungkin hampir sama dengan yang sebelumnya melakukan pengelolaan, dengan penambahan fitur assign mahasiswa atau project ke dalam team 
+
+===== Slide 16 ======
+
+terakhir ada use case untuk project management, dimana semua role terlibat pada fitur ini
+
+===== Slide 17 ======
+
+perancangan selanjutnya ada erd, ini merupakan erd yang dibuat khusus modul dosen saja dan terdapat erd lainnya pada modul lainnya namun saya tidak masukkan
+
+===== Slide 18 ======
+
+Sekarang kita masuk ke tahapan implementasi yang telah dilakukan
+
+===== Slide 19 - 21 ======
+
+Implementasi ini menggunakan metode scrum sehingga terdapat product backlog disini, dan terlihat ada user story beserta sprintnya
+alhamdulillah telah terlaksana, akan tetapi ada beberapa user story yang belum terselesaikan juga, mungkin dapat dilihat pada layar berikut
+
+===== Slide 22 - 25 ======
+
+setelah implementasi yaitu dilakukan tahapan pengujian yang didalamnya terdapat beberapa testing, pertama
+dari black box testing alhamdulillah hampir dari pengujian telah berhasil dilakukan namun ada beberapa yang belum
+berhasil dikarenakan fitur tersebut belum terselesaikan dan didapatkan hasil pengujian sekitar 88%
+
+===== Slide 26 - 27 ======
+
+berikutnya pengujian API menggunakan postman mungkin hampir sama seperti black box testing tapi alhamdulillah
+hasil yang didapat 100% dan API ini digunakan oleh aplikasi link and match juga yang berbasiskan android 
+
+===== Slide 28 - 29 ======
+
+selanjutnya pengujian pada user terlihat yang diambil dari 29 responden diantaranya 1 admin, 3 dosen, 3 scrum master
+1 product owner dan 21 mahasiswa dengan total keberhasilan sebagai berikut
+
+===== Slide 30 - 31 ======
+
+pengujian terakhir yaitu melalui kuesioner, didapatkan hasil dari 5 pernyataan yang diajukan dengan total alhamdulillah di atas 80% dengan interpretasi sangat baik
+
+===== Slide 32 ======
+
+selanjutnya mungkin saya akan mendemokan sedikit aplikasinya
+
+===== Slide 33 - 36 ======
+
+kesimpulan
+
+===== Slide 37 - 38 ======
+
+saran
+
+===== Slide 39 ======
+
+Alhamdulillah, telah selesai penjelasan dari saya mungkin itu saja terima kasih atas perhatiannya kurang lebihnya mohon maaf, saya kembalikan kepada pak rojul
